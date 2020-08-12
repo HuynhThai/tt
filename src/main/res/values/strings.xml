@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="horse">Horse</string>
+    <string name="cow">Cow</string>
+    <string name="camel">Camel</string>
+</resources>
